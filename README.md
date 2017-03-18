@@ -1,2 +1,2 @@
-# code-cademy
+# Code-cademy
 Solution for codecademy problems
