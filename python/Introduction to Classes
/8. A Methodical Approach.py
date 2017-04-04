@@ -10,3 +10,4 @@ class Animal(object):
         print self.age
         
 Animal("bird","10000")
+
